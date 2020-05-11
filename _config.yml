@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+<!DocType html>
+<html>
+<head> 
+<title>Mo's First HTML Website</title>
+</head>
+
+<body> 
+<h1>HTML</h1>
+<p>Hello, thanks for having a look at my very basic first ever HTML page, it took me a while to figure this out hence the little content.</p>
+</body>
+</html> 
